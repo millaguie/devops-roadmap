@@ -1,6 +1,6 @@
 # DevOps roadmap
 
-This is just a roadmap to become a DevOps proffessional
+This is just a roadmap to become a DevOps professional
 
 
 ## Basic computer skills
@@ -29,7 +29,7 @@ This is just a roadmap to become a DevOps proffessional
 
 ## Basic Linux skills
 
-### Installing linux
+### Installing Linux
 
 ### The console
 
@@ -37,7 +37,7 @@ This is just a roadmap to become a DevOps proffessional
 
 ### ...
 
-## Basic programing skills
+## Basic programming skills
 
 ### Shell scripting
 

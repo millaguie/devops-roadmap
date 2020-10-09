@@ -37,6 +37,12 @@ This is just a roadmap to become a DevOps professional
 
 ### ...
 
+### Virtualization (vagrant)
+
+### Paravirtualization (lxc)
+
+### Docker
+
 ## Basic programming skills
 
 ### Shell scripting
@@ -53,18 +59,31 @@ This is just a roadmap to become a DevOps professional
 
 ### TCP/IP
 
-### Basic network services
+### Basic network protocols
 
 * DNS
 * FTP
+* SSL/TLS
 * SSH / Telnet
 * DHCP
 * SMTP
+  * DMARC
+  * SPF
+  * Domain keys
+* POP3
+* IMAP
 * LDAP
 * KERBEROS
-* Web
-  * Apache
-  * Nginx
+* HTTP
+
+### Basic network services
+
+* Nginx
+* Apache
+* Tomcat
+* Postfix
+* Bind
+* OpenLDAP
 
 
 ## Basic cloud skills
@@ -80,6 +99,8 @@ This is just a roadmap to become a DevOps professional
 ### Azure
 
 ### Hetzner
+
+### Digital Ocean
 
 ### OpenStack
 
@@ -116,6 +137,40 @@ This is just a roadmap to become a DevOps professional
 
 ### Tekton
 
+### Gitlab CI
+
+### GitHub Actions
+
+### Travis CI
+
+### Circle CI
+
+## Monitoring
+
+### Prometheus
+
+### Grafana
+
+### kibana
+
+### Alertmanager
+
+## Log management
+
+### EKS
+
+### Graylog
+
+### Splunk
+
 ## Kubernetes
 
+### Basics
+
+### Helm
+
+### Helmfile
+
 ## Agile
+
+## Cloud design patterns

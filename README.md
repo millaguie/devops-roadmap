@@ -2,7 +2,6 @@
 
 This is just a roadmap to become a DevOps professional
 
-
 ## Basic computer skills
 
 ### Some basic concepts
@@ -14,6 +13,12 @@ This is just a roadmap to become a DevOps professional
 ### Git
 
 ## DevOps philosophy
+
+### Inmutable infrastructure
+
+https://www.hashicorp.com/resources/what-is-mutable-vs-immutable-infrastructure
+
+https://www.oreilly.com/radar/an-introduction-to-immutable-infrastructure/
 
 ### Basic approach
 
